@@ -1,6 +1,5 @@
 <h1 align="center">Hello ^^ I'm Eric Andrade</h1>
 <h3 align="center">Front-end developer, software development intern at TRE-RN</h3>
-<br>
 
 - 📱 I'm working on **Mobile Development** at TRE-RN
 
@@ -12,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **aericode.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me:</h3>
 <p align="left">
 <a href="https://twitter.com/codericode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codericode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aericode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aericode" height="30" width="40" /></a>
