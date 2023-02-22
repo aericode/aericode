@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📄 Know about my experiences [ericandra.de](ericandra.de)
+- 📄 Know about my experiences [ericandra.de](https://ericandra.de)
 
 - 📫 Reach me at [aericode@gmail.com](aericode@gmail.com)
 
-- 👨‍💻 All of my projects are available at **aericode.com**
+- 👨‍💻 All of my projects are available at **www.aericode.com**
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
