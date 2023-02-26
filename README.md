@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Eric Andrade 💻</h1>
+<h1 align="center">Hello! I'm Eric Andrade :)</h1>
 <h3 align="center">Front-end developer, intern at TRE-RN</h3>
 
 - 🇧🇷 I'm from Brazil, which is also where I'm living
