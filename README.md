@@ -1,15 +1,17 @@
 <h1 align="center">Hello! I'm Eric Andrade 💻</h1>
 <h3 align="center">Front-end developer, intern at TRE-RN</h3>
 
+- 🇧🇷 I'm from Brazil, which is also where I'm living
+
 - 📱 I'm working on **Mobile Development** at TRE-RN
 
 - 🌱 I’m currently learning **React Native**
 
 - 📄 Know about my experiences [ericandra.de](https://ericandra.de)
 
-- 📫 Reach me at [aericode@gmail.com](aericode@gmail.com)
+- 📫 Reach me at [aericode@gmail.com](e.andrade5f@gmail.com)
 
-- 👨‍💻 All of my projects are available at **www.aericode.com**
+- 👨‍💻 Check out my portfolio at **ericandra.de**
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
