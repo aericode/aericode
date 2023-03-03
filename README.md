@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🇧🇷 I'm from **Brazil**
+- 🏠 I'm from **Brazil**
 
 - 📄 Check out my portfolio at [ericandra.de](https://ericandra.de)
 
