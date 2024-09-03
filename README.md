@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Eric Andrade</h1>
 <h3 align="center">💻 Front-end developer - Intern at TRE-RN</h3>
 
-- 💻 I'm working with **Web Development** at TRE-RN
+- 💻 I'm a web programmer
 
 - 👨‍💻 I’m a full stack **MERN** developer
 
